@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+}
+div.container{
+    padding-top: 40px;
+}
+div.listDiv{
+    padding-top: 40px;
+    height: 300px;
+}
